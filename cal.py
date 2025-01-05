@@ -15,7 +15,7 @@ schedule = [
     ("Work", "8:40 AM", 200),  # Till 12:00 PM
     ("Lunch", "12:00 PM", 60),
     ("Work", "1:00 PM", 180),  # Till 4:00 PM
-    ("Talk with parents etc.", "4:00 PM", 60),
+    ("Work, Talk with parents etc.", "4:00 PM", 60),
     ("Snacks and fruits", "5:00 PM", 30),
     ("Go out for a walk", "5:30 PM", 60),
     ("Dinner prep, eating and cleaning", "6:30 PM", 90),
